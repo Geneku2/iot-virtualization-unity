@@ -1,0 +1,252 @@
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 24
+
+"distance": 		"NaN"
+
+"air quality": 		"NaN"
+
+"temperature": 		"NaN"
+
+"humidity": 		"NaN"
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 26
+
+"distance": 		12.72098
+
+"air quality": 		66.69794
+
+"temperature": 		26.39782
+
+"humidity": 		19.40024
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 28
+
+"distance": 		12.72098
+
+"air quality": 		66.69794
+
+"temperature": 		26.39782
+
+"humidity": 		19.40024
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 30
+
+"distance": 		12.72098
+
+"air quality": 		66.69794
+
+"temperature": 		26.39782
+
+"humidity": 		19.40024
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 32
+
+"distance": 		17.07747
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 34
+
+"distance": 		17.07747
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 36
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 38
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 40
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 42
+
+"distance": 		17.12382
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 44
+
+"distance": 		17.12382
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 46
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 48
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 50
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 52
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 54
+
+"distance": 		17.12355
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 56
+
+"distance": 		17.12379
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 58
+
+"distance": 		17.12379
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 60
+
+"distance": 		17.12379
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 62
+
+"distance": 		17.12344
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+
+=============== Zebra-30 LOG NEXT ==================
+
+Timestamp: 64
+
+"distance": 		17.12344
+
+"air quality": 		66.69949
+
+"temperature": 		26.39782
+
+"humidity": 		19.40049
+

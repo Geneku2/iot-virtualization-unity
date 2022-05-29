@@ -1,0 +1,6 @@
+{"27": "GPS",
+ "3": "Ultrasonic",
+ "9": "AirQuality",
+ "24": "Temperature",
+ "25": "Humidity",
+ "31": "Vitals"}

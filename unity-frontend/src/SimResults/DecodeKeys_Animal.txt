@@ -1,0 +1,67 @@
+{
+"0": "Elephant",
+
+"1": "Elephant",
+
+"2": "Elephant",
+
+"3": "Elephant",
+
+"4": "Elephant",
+
+"5": "Elephant",
+
+"6": "Elephant",
+
+"7": "Elephant",
+
+"8": "Elephant",
+
+"9": "Elephant",
+
+"10": "Elephant",
+
+"11": "Elephant",
+
+"12": "Lion",
+
+"13": "Lion",
+
+"14": "Lion",
+
+"15": "Lion",
+
+"16": "Lion",
+
+"17": "Lion",
+
+"18": "Zebra",
+
+"19": "Zebra",
+
+"20": "Zebra",
+
+"21": "Zebra",
+
+"22": "Zebra",
+
+"23": "Zebra",
+
+"24": "Zebra",
+
+"25": "Zebra",
+
+"26": "Zebra",
+
+"27": "Zebra",
+
+"28": "Zebra",
+
+"29": "Zebra",
+
+"30": "Zebra",
+
+"31": "Zebra",
+
+"32": "Zebra"
+}

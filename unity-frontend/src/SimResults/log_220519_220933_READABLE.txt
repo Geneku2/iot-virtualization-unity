@@ -1,0 +1,108 @@
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 32
+
+"distance": 		"NaN"
+
+"air quality": 		"NaN"
+
+"temperature": 		"NaN"
+
+"humidity": 		"NaN"
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 34
+
+"distance": 		"NaN"
+
+"air quality": 		"NaN"
+
+"temperature": 		"NaN"
+
+"humidity": 		"NaN"
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 36
+
+"distance": 		146.9266
+
+"air quality": 		84.37367
+
+"temperature": 		26.92166
+
+"humidity": 		24.45566
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 38
+
+"distance": 		146.9266
+
+"air quality": 		84.37367
+
+"temperature": 		26.92166
+
+"humidity": 		24.45566
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 40
+
+"distance": 		146.9266
+
+"air quality": 		84.37367
+
+"temperature": 		26.92166
+
+"humidity": 		24.45566
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 42
+
+"distance": 		144.154
+
+"air quality": 		83.95099
+
+"temperature": 		26.87999
+
+"humidity": 		24.37242
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 44
+
+"distance": 		144.154
+
+"air quality": 		83.95099
+
+"temperature": 		26.87999
+
+"humidity": 		24.37242
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 46
+
+"distance": 		141.5892
+
+"air quality": 		83.11594
+
+"temperature": 		26.79658
+
+"humidity": 		24.21828
+
+=============== Lion-15 LOG NEXT ==================
+
+Timestamp: 48
+
+"distance": 		141.5892
+
+"air quality": 		83.11594
+
+"temperature": 		26.79658
+
+"humidity": 		24.21828
+
